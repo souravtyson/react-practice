@@ -5,4 +5,4 @@ function ChildComponent({ onClick }) {
   return <button onClick={onClick}>Click me</button>;
 }
 
-export default ChildComponent;
+export default React.memo(ChildComponent);
