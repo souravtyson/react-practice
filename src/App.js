@@ -15,7 +15,7 @@ export default function App() {
       {/* useCallBack hook example */}
       {/* <Example /> */}
       {/* <Example /> */}
-      <ExpInfiniteLoop />
+      {/* <ExpInfiniteLoop /> */}
     </div>
   );
 }
