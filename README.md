@@ -1,6 +1,6 @@
 # react-practice
 
-Approach 1: Prop-based Approach
+Approach 1: Prop-based Approach 
 Pros:
 
 Explicit: Passing props makes the data flow explicit and easy to trace.
